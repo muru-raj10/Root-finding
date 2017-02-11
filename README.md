@@ -1,5 +1,5 @@
 # Root-finding
-Codes for various methods of root finding (Matlab codes)
+Codes for various methods of root finding (Matlab and vba codes)
 Bisection method
 False Position method
 Muller's method
